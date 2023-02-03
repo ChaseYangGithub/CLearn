@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 ﻿  00_引用.cpp
 D:\CodingSpace\VisualStudy\C++\01Basic\11_引用\00_引用.cpp(88): warning C4172: 返回局部变量或临时变量的地址: a
   11_引用.vcxproj -> D:\CodingSpace\VisualStudy\C++\01Basic\11_引用\Debug\11_引用.exe
+=======
+﻿  00_引用.cpp
+D:\CodingSpace\VisualStudy\C++\01Basic\11_引用\00_引用.cpp(88): warning C4172: 返回局部变量或临时变量的地址: a
+  11_引用.vcxproj -> D:\CodingSpace\VisualStudy\C++\01Basic\11_引用\Debug\11_引用.exe
+>>>>>>> 1238f1d7e05d405a3aa0d46eef22959aab388bd3

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 D:\CodingSpace\VisualStudy\C++\01Basic\10_内存分区模型\Debug\10_内存分区模型.exe
+=======
+D:\CodingSpace\VisualStudy\C++\01Basic\10_内存分区模型\Debug\10_内存分区模型.exe
+>>>>>>> 1238f1d7e05d405a3aa0d46eef22959aab388bd3

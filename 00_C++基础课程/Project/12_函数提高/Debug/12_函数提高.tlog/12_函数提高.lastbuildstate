@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.29.30133:TargetPlatformVersion=10.0.19041.0:
 Debug|Win32|D:\CodingSpace\VisualStudy\C++\01Basic\12_函数提高\|
+=======
+PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.29.30133:TargetPlatformVersion=10.0.19041.0:
+Debug|Win32|D:\CodingSpace\VisualStudy\C++\01Basic\12_函数提高\|
+>>>>>>> 1238f1d7e05d405a3aa0d46eef22959aab388bd3
