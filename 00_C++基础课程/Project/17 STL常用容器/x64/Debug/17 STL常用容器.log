@@ -1,0 +1,5 @@
+﻿  91 案例员工分组.cpp
+D:\CodingSpace\VisualStudy\C++\01Basic\17 STL常用容器\91 案例员工分组.cpp(50,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CodingSpace\VisualStudy\C++\01Basic\17 STL常用容器\91 案例员工分组.cpp(59,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\CodingSpace\VisualStudy\C++\01Basic\17 STL常用容器\91 案例员工分组.cpp(68,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  17 STL常用容器.vcxproj -> D:\CodingSpace\VisualStudy\C++\01Basic\17 STL常用容器\x64\Debug\17 STL常用容器.exe

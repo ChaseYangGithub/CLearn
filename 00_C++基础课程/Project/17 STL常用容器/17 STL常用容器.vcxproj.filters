@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="00 函数.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="01 string构造函数.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="02 string赋值操作.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="02 string赋值函数.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="03 string容器的字符串拼接.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="04 string的查找和替换.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="05 string 字符串比较.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="06 string单字符存取.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="07 string插入和删除.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="08 string获取子串.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="12 vector构造函数.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="13 vector 赋值操作.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="14 vector容量和大小.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="15 vector插入和删除.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="16 vector数据存取.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="17 vector互换容器.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="18 vector 预留空间.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="21 deque构造函数.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="22 deque赋值操作.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="24 deque大小操作.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="25 deque的插入和删除.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="26 deque数据存取.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="27 deque排序.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="31 案例评委打分.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="42 stack常用接口.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="52 queue常用接口.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="62 list构造函数.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="63 list赋值和交换.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="64 list大小操作.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="65 list插入和删除.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="66 list数据存取.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="67 list反转和排序.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="68 排序案例.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="72 set构造和赋值.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="73 set大小和交换.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="74 set插入和删除.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="75 set查找和统计.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="76 set和multiset的区别.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="77 pair队组的创建.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="78 set排序.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="82 map构造和赋值.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="83 map大小和交换.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="84 map插入和删除.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="85 map查找和统计.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="86 map容器排序.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="91 案例员工分组.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="00 函数.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
