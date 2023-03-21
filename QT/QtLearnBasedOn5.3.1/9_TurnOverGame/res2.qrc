@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/level (6).png</file>
+        <file>image/level (7).png</file>
+        <file>image/level (8).png</file>
+        <file>image/level (9).png</file>
+        <file>image/level (10).png</file>
+        <file>image/level (11).png</file>
+        <file>image/level (12).png</file>
+        <file>image/level (13).png</file>
+        <file>image/level (14).png</file>
+        <file>image/level (15).png</file>
+        <file>image/level (16).png</file>
+        <file>image/level (17).png</file>
+        <file>image/level (18).png</file>
+        <file>image/level (19).png</file>
+        <file>image/level (20).png</file>
+        <file>image/LevelCompletedDialogBg.png</file>
+        <file>image/ConFlipSound.wav</file>
+        <file>image/LevelWinSound.wav</file>
+        <file>image/TapButtonSound.wav</file>
+    </qresource>
+</RCC>

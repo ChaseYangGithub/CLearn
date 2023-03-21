@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/background.png</file>
+        <file>image/Back.png</file>
+        <file>image/Back2.png</file>
+        <file>image/start.png</file>
+        <file>image/tuzi.jpg</file>
+        <file>image/title.png</file>
+        <file>image/background2.png</file>
+        <file>image/bill.png</file>
+        <file>image/level (1).png</file>
+        <file>image/level (2).png</file>
+        <file>image/level (3).png</file>
+        <file>image/level (4).png</file>
+        <file>image/level (5).png</file>
+        <file>image/background3.jpg</file>
+        <file>image/backPure3.png</file>
+        <file>image/Coin0001.png</file>
+        <file>image/Coin0002.png</file>
+        <file>image/Coin0004.png</file>
+        <file>image/Coin0005.png</file>
+        <file>image/Coin0006.png</file>
+        <file>image/Coin0007.png</file>
+        <file>image/Coin0008.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\mainscene.o
+./release\mypushbutton.o
+./release\chooselevelscene.o
+./release\gamescene.o
+./release\myimage.o
+./release\dataconfig.o
+./release\qrc_res.o
+./release\qrc_res2.o
+./release\moc_mainscene.o
+./release\moc_mypushbutton.o
+./release\moc_chooselevelscene.o
+./release\moc_myimage.o
+./release\moc_gamescene.o
+./release\moc_dataconfig.o
+);
